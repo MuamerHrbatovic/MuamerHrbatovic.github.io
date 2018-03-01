@@ -9,6 +9,7 @@ background-size: cover;
 	text-shadow: 1px 1px 1px black;
 }
 .btn{
+	text-align:center;
 	border-radius: 10px;
 	color:white;
 	background-color:transparent;
